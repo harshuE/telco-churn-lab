@@ -18,30 +18,6 @@ The project leverages customer demographics, billing, and service-usage data to 
 
 ---
 
-## 🧱 Folder Structure  
-Customer Churn Prediction Model/
-│
-├── backend/ # Flask Backend (API + Model)
-│ ├── app.py # Main Flask app entry point
-│ ├── model/ # Trained ML models
-│ ├── static/ # Static files (optional)
-│ ├── templates/ # Flask templates (optional)
-│ ├── requirements.txt # Python dependencies
-│ └── utils/ # Helper scripts (data preprocessing, etc.)
-│
-├── frontend/ # React + Vite Frontend
-│ ├── src/
-│ │ ├── components/ # UI Components
-│ │ ├── pages/ # Pages (Home, Predict, About)
-│ │ ├── assets/ # Images, GIFs
-│ │ └── App.jsx # Main component
-│ ├── package.json # Frontend dependencies
-│ └── vite.config.js # Vite configuration
-│
-└── README.md # Project Documentation
-
----
-
 ## 🧩 Tech Stack  
 
 | Layer | Technology |
